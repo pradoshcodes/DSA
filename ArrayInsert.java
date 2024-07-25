@@ -12,7 +12,7 @@ public class ArrayInsert {
         arr[i]=sc.nextInt();
         }
       for(int i=0;i<n;i++){
-        System.out.println("Arrays :"+arr[i]+" ");
+        System.out.println("Arrays:"+arr[i]+" ");
       }
 
     }
